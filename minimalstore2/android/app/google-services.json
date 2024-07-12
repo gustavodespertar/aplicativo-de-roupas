@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917984284807",
+    "project_id": "projetogustavo-deea3",
+    "storage_bucket": "projetogustavo-deea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917984284807:android:d30dca4c8fd720d1dea822",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGDMHs1ANVFFfwI5UIXlzzhaOrervxGCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
